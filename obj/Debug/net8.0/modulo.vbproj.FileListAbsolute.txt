@@ -1,0 +1,14 @@
+C:\Users\Wills\source\repos\modulo\modulo\bin\Debug\net8.0\modulo.exe
+C:\Users\Wills\source\repos\modulo\modulo\bin\Debug\net8.0\modulo.deps.json
+C:\Users\Wills\source\repos\modulo\modulo\bin\Debug\net8.0\modulo.runtimeconfig.json
+C:\Users\Wills\source\repos\modulo\modulo\bin\Debug\net8.0\modulo.dll
+C:\Users\Wills\source\repos\modulo\modulo\bin\Debug\net8.0\modulo.pdb
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\modulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\modulo.AssemblyInfoInputs.cache
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\modulo.AssemblyInfo.vb
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\modulo.vbproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\modulo.dll
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\refint\modulo.dll
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\modulo.pdb
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\modulo.genruntimeconfig.cache
+C:\Users\Wills\source\repos\modulo\modulo\obj\Debug\net8.0\ref\modulo.dll
